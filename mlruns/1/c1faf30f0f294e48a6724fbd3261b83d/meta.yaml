@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/c1faf30f0f294e48a6724fbd3261b83d/artifacts
+end_time: 1683829813021
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c1faf30f0f294e48a6724fbd3261b83d
+run_uuid: c1faf30f0f294e48a6724fbd3261b83d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683829812841
+status: 3
+tags: []
+user_id: raunak314
